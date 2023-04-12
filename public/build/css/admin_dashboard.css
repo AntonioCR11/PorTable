@@ -1,0 +1,42 @@
+.btn_orange{
+    color: white;
+    background-color: rgba(0, 0, 0, 0);
+    /* border-radius: 5px; */
+    border-bottom: 1px solid rgb(100, 100, 100);
+    font-size: 1.1em;
+}
+.btn_orange:hover{
+    cursor: pointer;
+    color: white;
+    background-color: #FEB139;
+    /* border: 1px solid #FEB139; */
+}
+.btn_orange_active{
+    color: white;
+    background-color: #FEB139;
+}
+.overview_1{
+    background-color:#FEB139 ;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 1.3em;
+}
+.overview_2{
+    background-color:#6C4AB6 ;
+    color: white;
+    border-radius: 10px;
+    font-size: 1.3em;
+    font-weight: bold;
+}
+.overview_3{
+    background-color:#212529 ;
+    color: white;
+    border-radius: 10px;
+    font-size: 1.3em;
+    font-weight: bold;
+}
+.overview_sub{
+    font-size: 0.8em;
+    font-weight: normal;
+}
+
