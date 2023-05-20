@@ -2,8 +2,9 @@
 Project - Portable is a restaurant reservation web application created with Laravel 9 Framework. It my 5'th Semester Project on Web Framework, Software Development and Mobile Development Lecture. PorTable is used for reserving tables on restaurant, it is made for 3 specific role (customer, restaurant, admin) with various features for each role.
 
 <details>
-<summary>Portable Features</summary>
+<summary>Portable Features, Click to reveal!</summary>
 <br>
+    
      Note :
         - ketika register pada index maka user akan didaftarkan default sebagai akun customer,
           untuk membuat akun restoran maka customer perlu mendaftarkan
