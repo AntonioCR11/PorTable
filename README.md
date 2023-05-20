@@ -5,19 +5,19 @@ Project - Portable is a restaurant reservation web application created with Lara
 <summary>Portable Features, Click to reveal!</summary>
 <br>
     
-     Note :
-        - ketika register pada index maka user akan didaftarkan default sebagai akun customer,
-          untuk membuat akun restoran maka customer perlu mendaftarkan
-          kembali akun dan melengkapi syarat & ketentuan
-        - akun admin bawaan adalah 1 buah akun, untuk membuat akun admin lainnya harus lewat
-          akun admin lainnya atau langsung dri Database XD
-    
     PorTable Application Flow :
     1. User register & login to PorTable
         Tipe User :
         a. Customer
         b. Restaurant
         c. Admin
+    
+         Note :
+            - ketika register pada index maka user akan didaftarkan default sebagai akun customer,
+              untuk membuat akun restoran maka customer perlu mendaftarkan
+              kembali akun dan melengkapi syarat & ketentuan
+            - akun admin bawaan adalah 1 buah akun, untuk membuat akun admin lainnya harus lewat
+              akun admin lainnya atau langsung dri Database XD
     
     2. Customer's Features :
     
